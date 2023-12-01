@@ -2,9 +2,9 @@
 
 <p align="center">Pinwheel is a highly customizable multipurpose SaaS theme built with TailwindCSS.</p>
 
-<h2 align="center">
+<!-- <h2 align="center">
 <a target="_blank" href="https://demo.themefisher.com/pinwheel-tailwind/" rel="nofollow">👀 Demo</a> | <a  target="_blank" href="">Page Speed (95+)🚀</a>
-</h2>
+</h2> -->
 
 ![pinwheel](https://demo.themefisher.com/thumbnails/pinwheel.png)
 
@@ -54,17 +54,17 @@ npm run build
 
 <!-- reporting issue -->
 
-## 🐞 Reporting Issues
+<!-- ## 🐞 Reporting Issues
 
 We use GitHub Issues as the official bug tracker for this Template. Please Search [existing issues](https://github.com/themefisher/pinwheel-tailwind/issues). It’s possible someone has already reported the same problem.
-If your problem or idea has not been addressed yet, feel free to [open a new issue](https://github.com/themefisher/pinwheel-tailwind/issues).
+If your problem or idea has not been addressed yet, feel free to [open a new issue](https://github.com/themefisher/pinwheel-tailwind/issues). -->
 
 <!-- licence -->
 
-## 📝 License
+<!-- ## 📝 License
 
 Copyright (c) 2023 - Present, Designed & Developed by [Themefisher](https://themefisher.com/)
 
 **Code License:** Released under the [MIT](https://github.com./themefisher/pinwheel-tailwind/blob/main/LICENSE) license.
 
-**Image license:** The images are only for demonstration purposes. They have their license, we don't have permission to share those images.
+**Image license:** The images are only for demonstration purposes. They have their license, we don't have permission to share those images. -->
