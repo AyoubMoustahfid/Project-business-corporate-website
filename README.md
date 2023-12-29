@@ -56,15 +56,15 @@ npm run build
 
 <!-- ## 🐞 Reporting Issues
 
-We use GitHub Issues as the official bug tracker for this Template. Please Search [existing issues](https://github.com/themefisher/pinwheel-tailwind/issues). It’s possible someone has already reported the same problem.
-If your problem or idea has not been addressed yet, feel free to [open a new issue](https://github.com/themefisher/pinwheel-tailwind/issues). -->
+We use GitHub Issues as the official bug tracker for this Template. Please Search [existing issues](https://github.com/AyoubMoustahfid/Project-business-corporate-website/issues). It’s possible someone has already reported the same problem.
+If your problem or idea has not been addressed yet, feel free to [open a new issue](https://github.com/AyoubMoustahfid/Project-business-corporate-website/issues). -->
 
 <!-- licence -->
 
 <!-- ## 📝 License
 
-Copyright (c) 2023 - Present, Designed & Developed by [Themefisher](https://themefisher.com/)
+Copyright (c) 2023 - Present, Designed & Developed 
 
-**Code License:** Released under the [MIT](https://github.com./themefisher/pinwheel-tailwind/blob/main/LICENSE) license.
+**Code License:** Released under the [MIT](https://github.com/AyoubMoustahfid/Project-business-corporate-website) license.
 
 **Image license:** The images are only for demonstration purposes. They have their license, we don't have permission to share those images. -->
